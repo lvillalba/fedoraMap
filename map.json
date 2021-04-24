@@ -938,36 +938,108 @@
          "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":321,
-         "source":"png\/azul.json"
+         "image":"png\/azul.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"azul",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":6,
          "firstgid":322,
-         "source":"png\/baloons_clone.json"
+         "image":"png\/baloons_clone.png",
+         "imageheight":288,
+         "imagewidth":192,
+         "margin":0,
+         "name":"baloons_clone",
+         "spacing":0,
+         "tilecount":54,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":8,
          "firstgid":376,
-         "source":"png\/panda_animated.json"
+         "image":"png\/panda_animated.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"panda_animated",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":15,
          "firstgid":440,
-         "source":"png\/-panda4x.json"
+         "image":"png\/-panda4x.png",
+         "imageheight":120,
+         "imagewidth":484,
+         "margin":0,
+         "name":"-panda4x",
+         "spacing":0,
+         "tilecount":45,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":485,
-         "source":"png\/fedoralogo.json"
+         "image":"png\/fedoralogo.png",
+         "imageheight":300,
+         "imagewidth":300,
+         "margin":0,
+         "name":"fedoralogo",
+         "spacing":0,
+         "tilecount":81,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":14,
          "firstgid":566,
-         "source":"png\/weolcome2.json"
+         "image":"png\/weolcome2.png",
+         "imageheight":231,
+         "imagewidth":455,
+         "margin":0,
+         "name":"weolcome2",
+         "spacing":0,
+         "tilecount":98,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":1,
          "firstgid":664,
-         "source":"png\/blaco.json"
+         "image":"png\/blaco.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"blaco",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":11,
          "firstgid":665,
-         "source":"png\/pub.json"
+         "image":"png\/pub.png",
+         "imageheight":388,
+         "imagewidth":388,
+         "margin":21,
+         "name":"pub",
+         "spacing":0,
+         "tilecount":121,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
