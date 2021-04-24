@@ -1,0 +1,14 @@
+{ "columns":15,
+ "image":"-panda4x.png",
+ "imageheight":120,
+ "imagewidth":484,
+ "margin":0,
+ "name":"-panda4x",
+ "spacing":0,
+ "tilecount":45,
+ "tiledversion":"1.5.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.5
+}

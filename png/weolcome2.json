@@ -1,0 +1,14 @@
+{ "columns":14,
+ "image":"weolcome2.png",
+ "imageheight":231,
+ "imagewidth":455,
+ "margin":0,
+ "name":"weolcome2",
+ "spacing":0,
+ "tilecount":98,
+ "tiledversion":"1.5.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.5
+}
